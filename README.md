@@ -30,7 +30,7 @@ $ cd youtube-clone<br><br>
 <p>As principais tecnologias que foram utilizadas na construção do projeto:</p>
 <ul>
    <li><a href="https://pt-br.reactjs.org/" target="_blank">ReactJS</a></li>
-   <li><a href="https://material-ui.com/pt/" target="_blank">Material UI React</a></li>
+   <li><a href="https://material-ui.com/pt/" target="_blank">Material UI</a></li>
    <li><a href="https://www.npmjs.com/package/json-server" target="_blank">Json Server</a></li>
    <li><a href="https://github.com/axios/axios" target="_blank">Axios</a></li>
 </ul>
