@@ -19,7 +19,7 @@ $ cd youtube-clone<br><br>
    <span>#</span> Execute o json-server
    $ yarn json-server server.json -p 3333
       
-   <span>#</span> Em outro terminal, cxecute a aplicação em modo de desenvolvimento
+   <span>#</span> Em outro terminal, execute a aplicação em modo de desenvolvimento
    $ yarn start<br>
       
    <span>#</span> O servidor inciará na porta 3000 - acesse http://localhost:3000
