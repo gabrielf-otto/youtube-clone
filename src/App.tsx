@@ -22,7 +22,8 @@ import {
 	ListSubheader,
 	TextField,
 	ThemeOptions,
-	InputBase
+	InputBase,
+	Hidden
 } from '@material-ui/core';
 
 import { 
@@ -126,7 +127,8 @@ const App: React.FC = () => {
 			</AppBar>
 
 			<Box display="flex">
-				<Drawer variant="permanent" className={classes.drawer} classes={{paper: classes.drawerPaper}}>
+				<Hidden smDown>
+					<Drawer variant="permanent" className={classes.drawer} classes={{paper: classes.drawerPaper}}>
 					<Toolbar />
 					<Box>
 						<List>
@@ -253,6 +255,7 @@ const App: React.FC = () => {
 						</List>
 					</Box>
 				</Drawer>
+				</Hidden>
 				
 				<Box p={6}>
 					<Toolbar />

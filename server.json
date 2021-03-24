@@ -3,39 +3,39 @@
    [
       {
          "id": 1,
-         "title": "CRIANDO UMA REDE SOCIAL DO ZERO",
-         "channel": "Meu canal",
+         "title": "Melhores sites para baixar imagens gratuitas e outros recursos",
+         "channel": "Rocketseat",
          "views": "1,6 mil visualizações",
          "date": "há 2 dias",
          "avatar_url": "https://yt3.ggpht.com/ytc/AAUvwniZFvNe5OEM2bTjcGRdH8fOW06pr9HYSJCwDPK_BA=s68-c-k-c0x00ffffff-no-rj",
-         "thumb_url": "https://raw.githubusercontent.com/lucasnhimi/clone-youtube-materialui/master/public/images/thumb1.png"
+         "thumb_url": "https://user-images.githubusercontent.com/68665746/112323114-3bb79b80-8c90-11eb-9cb2-01c3034233ba.png"
       },
       {
          "id": 2,
-         "title": "CRIANDO UMA REDE SOCIAL DO ZERO",
-         "channel": "Meu canal",
+         "title": "Como funciona a nossa estrutura de desenvolvimento",
+         "channel": "Rocketseat",
          "views": "5,1 mil visualizações",
          "date": "há 6 dias",
          "avatar_url": "https://yt3.ggpht.com/ytc/AAUvwniZFvNe5OEM2bTjcGRdH8fOW06pr9HYSJCwDPK_BA=s68-c-k-c0x00ffffff-no-rj",
-         "thumb_url": "https://raw.githubusercontent.com/lucasnhimi/clone-youtube-materialui/master/public/images/thumb2.png"
+         "thumb_url": "https://user-images.githubusercontent.com/68665746/112323121-3d815f00-8c90-11eb-966d-51b5a5252be8.png"
       },
       {
          "id": 3,
-         "title": "CRIANDO UMA REDE SOCIAL DO ZERO",
-         "channel": "Meu canal",
+         "title": "TypeScript: Vantagens, mitos, dicas e conceitos fundamentais",
+         "channel": "Rocketseat",
          "views": "10 mil visualizações",
          "date": "há 11 dias",
          "avatar_url": "https://yt3.ggpht.com/ytc/AAUvwniZFvNe5OEM2bTjcGRdH8fOW06pr9HYSJCwDPK_BA=s68-c-k-c0x00ffffff-no-rj",
-         "thumb_url": "https://raw.githubusercontent.com/lucasnhimi/clone-youtube-materialui/master/public/images/thumb3.png"
+         "thumb_url": "https://user-images.githubusercontent.com/68665746/112323117-3ce8c880-8c90-11eb-8985-543ff18d38f0.png"
       },
       {
          "id": 4,
-         "title": "CRIANDO UMA REDE SOCIAL DO ZERO",
-         "channel": "Meu canal",
+         "title": "React Hooks: Como utilizar, motivações e exemplos práticos",
+         "channel": "Rocketseat",
          "views": "25 mil visualizações",
          "date": "há 4 dias",
          "avatar_url": "https://yt3.ggpht.com/ytc/AAUvwniZFvNe5OEM2bTjcGRdH8fOW06pr9HYSJCwDPK_BA=s68-c-k-c0x00ffffff-no-rj",
-         "thumb_url": "https://raw.githubusercontent.com/lucasnhimi/clone-youtube-materialui/master/public/images/thumb4.png"
+         "thumb_url": "https://user-images.githubusercontent.com/68665746/112323119-3ce8c880-8c90-11eb-925f-32397d3e164f.png"
       }
    ]
 }
